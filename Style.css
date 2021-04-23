@@ -727,10 +727,11 @@ body {
 	font-weight: 400;
 	text-decoration: none;
 	font-size: 17px;
-	color: #2577b1;
+	color: #c46200;
 	background: #edf6fd;
 	border-bottom: 1px solid #dfdfdf;
 	background: linear-gradient(0deg,#edf6fd,#f6fafe);
+	FONT-WEIGHT: 600;
 }
 .menu-content > :last-child {
 	border-bottom-right-radius: 3px;
